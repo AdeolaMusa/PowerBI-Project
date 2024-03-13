@@ -19,7 +19,7 @@ I used Power Query to clean and transform the data. Other tools used includes; s
 
 ## Chart
 
-![](sales.report.png)
+![](sales_report.png)
 
 ## Analysis
 
