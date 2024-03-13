@@ -25,12 +25,29 @@ I used Power Query to clean and transform the data. Other tools used includes; s
 
 ## Analysis
 
-### Sales by Category 
-This chart shows the total sales value for each category. 
+### Sales by Departmental Category 
+
+![](sales_department.png)
+
+This chart reports the total sales value for each departmental category and shows that the highest sales is generated from the Novelty shop ($38m)
 
 ### Sales by month
-This chart shows the sales value for each month. I created two measures, Year to year percentage change and sales year to date calculation to make comparison with the previous year
+
+![](gty_sold.png)
+
+This chart shows the sales value for each month, from January to December. I created two measures, Year to Year percentage (YtoY%) change and sales Year to Date (YtoD) calculation as shown in the table to make comparison with the previous year. The highest quantity sold is recorded in July (267k)
+
+### Sum of Sales by Province
+
+![](sum_sales_by_province.png)
+
+This chart shows the stores sales performance by province. You can drill down into each state/province to identify the individual performance. from this analysis, Texas has the highest sales at #3,564,577
 
 ## Recommendation
+- Gather customer feedback to identify painpoints and reasons for not shopping at the oher departments
+- Explore cross selling strategy by encouraging customers who purchase from the Novelty shop to explore complementary products from other sections at discounted prices. everyone loves discounts!
+- Gather customer feedback to identify painpoints and reasons for not shopping at the oher departments
+- Allocate more marketing efforts, and inventory to the other departmental category
 
-## Conclusion
+## Thank you
+
