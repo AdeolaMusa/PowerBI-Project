@@ -6,7 +6,7 @@
 
 This PowerBIprojects provides a comprehensive overview of the Sale performance for an imaginary departmental store called **Super Store**, over a given period of time. The store has 5 departments, Novelty, Supermarket, Gift, Corporate and Computer. The sales dataset was organised and analyzed to answer crucial questions and gain insights to make strategc data driven decisions to improve growth and performance. This project includes organizing and analyzing Invoice and customer information dataset.
 
-You can interact with the project [here]([https://1drv.ms/x/c/b8e8fdd319a907e1/EYsugyZJVs5HuXuTODvQqEABmSS1j892JrJL9GiM12BenA?e=aWfY35](https://app.powerbi.com/links/K-pMlojKy3?ctid=6ca78932-d96b-4bc9-a757-8cbc03f574b9&pbi_source=linkShare))
+You can interact with the project [here](https://1drv.ms/x/c/b8e8fdd319a907e1/EYsugyZJVs5HuXuTODvQqEABmSS1j892JrJL9GiM12BenA?e=aWfY35](https://app.powerbi.com/links/K-pMlojKy3?ctid=6ca78932-d96b-4bc9-a757-8cbc03f574b9&pbi_source=linkShare)
 
 
 *__Disclaimer__* : **_All dataset or report do no represent any Company, Institution or Country but its justa dummy dataset used to demonstrate capabilities of Excel._**
