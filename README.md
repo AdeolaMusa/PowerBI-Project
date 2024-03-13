@@ -1,6 +1,6 @@
 ## Super Store Sales Report
 
-![](Super_store.png)
+![](Super_Store.png)
 
 ## Introduction
 
@@ -21,7 +21,7 @@ I used Power Query to clean and transform the data. Other tools used includes; s
 
 ## Chart
 
-![](sales_report.png)
+![](Sales_Report.png)
 
 ## Analysis
 
