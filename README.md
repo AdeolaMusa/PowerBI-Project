@@ -8,7 +8,7 @@ This PowerBIprojects provides a comprehensive overview of the Sale performance f
 
 You can interact with the project [here](https://app.powerbi.com/links/K-pMlojKy3?ctid=6ca78932-d96b-4bc9-a757-8cbc03f574b9&pbi_source=linkShare)
 
-*__Disclaimer__* : **_All dataset or report do no represent any Company, Institution or Country but its justa dummy dataset used to demonstrate capabilities of Excel._**
+*__Disclaimer__* : **_All dataset or report do no represent any Company, Institution or Country but its justa dummy dataset used to demonstrate capabilities of PowerBI._**
 
 ## Problem Statement
 - What is the total revenue generated?
